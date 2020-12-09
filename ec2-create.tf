@@ -14,3 +14,4 @@ resource "aws_instance" "DevServer" {
   tags = {
     Name = "HelloWorld"
   }
+}
