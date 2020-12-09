@@ -8,7 +8,7 @@ resource "aws_instance" "DevServer" {
   ami           = "ami-026669ec456129a70"
   instance_type = "t2.micro"
   key_name      = "new_mub"
-  security_group= "sg-0f74c4128a68ce976"
+  
 
 
   tags = {
