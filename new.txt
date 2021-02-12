@@ -1,2 +1,3 @@
 this is demo version for git.
-Welcome to devops learning
+Welcome to devops learning.
+How to merage to master by cli mode.
